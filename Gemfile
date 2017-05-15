@@ -35,7 +35,7 @@ gem 'therubyracer'
 
 gem 'devise-bootstrap-views'
 
-
+gem 'stock_quote'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 group :production do
